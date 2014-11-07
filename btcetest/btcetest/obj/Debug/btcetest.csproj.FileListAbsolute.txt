@@ -1,0 +1,12 @@
+c:\users\stas\documents\visual studio 2013\Projects\btcetest\btcetest\bin\Debug\btcetest.exe.config
+C:\Users\Stas\Documents\Visual Studio 2013\Projects\btcetest\btcetest\bin\Debug\btcetest.exe
+C:\Users\Stas\Documents\Visual Studio 2013\Projects\btcetest\btcetest\bin\Debug\btcetest.pdb
+C:\Users\Stas\Documents\Visual Studio 2013\Projects\btcetest\btcetest\bin\Debug\BtceApi.dll
+C:\Users\Stas\Documents\Visual Studio 2013\Projects\btcetest\btcetest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Stas\Documents\Visual Studio 2013\Projects\btcetest\btcetest\bin\Debug\BtceApi.pdb
+C:\Users\Stas\Documents\Visual Studio 2013\Projects\btcetest\btcetest\obj\Debug\btcetest.csprojResolveAssemblyReference.cache
+C:\Users\Stas\Documents\Visual Studio 2013\Projects\btcetest\btcetest\obj\Debug\btcetest.Form1.resources
+C:\Users\Stas\Documents\Visual Studio 2013\Projects\btcetest\btcetest\obj\Debug\btcetest.Properties.Resources.resources
+C:\Users\Stas\Documents\Visual Studio 2013\Projects\btcetest\btcetest\obj\Debug\btcetest.csproj.GenerateResource.Cache
+C:\Users\Stas\Documents\Visual Studio 2013\Projects\btcetest\btcetest\obj\Debug\btcetest.exe
+C:\Users\Stas\Documents\Visual Studio 2013\Projects\btcetest\btcetest\obj\Debug\btcetest.pdb
